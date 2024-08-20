@@ -34,12 +34,12 @@ Ensure you have the following installed:
 ### Steps
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/yourusername/inizio.git
+   git clone https://github.com/yourusername/Event-Vista.git
    ```
 
 2. **Navigate to the Project Directory:**
    ```sh
-   cd inizio
+   cd Event Vista
    ```
 
 3. **Install PHP Dependencies:**
@@ -70,7 +70,7 @@ Ensure you have the following installed:
      ```
 
 8. **Access the Application:**
-   - Open your web browser and navigate to `http://localhost/inizio` (or the appropriate URL for your setup).
+   - Open your web browser and navigate to `http://localhost/Event-Vista` (or the appropriate URL for your setup).
 
 ## Usage
 
