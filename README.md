@@ -1,9 +1,9 @@
 ---
 
-# Inizio - Event Management System
+# Event Vista - Event Management System
 
 ## Introduction
-Welcome to the **Inizio** Event Management System repository! This system is designed to streamline the process of organizing, managing, and promoting a wide range of events, catering to various needs and preferences. Whether you're planning a professional conference, educational seminar, engaging workshop, lively social gathering, or any other event, this system provides the comprehensive tools and features necessary to ensure your event's success.
+Welcome to the **Event Vista** Event Management System repository! This system is designed to streamline the process of organizing, managing, and promoting a wide range of events, catering to various needs and preferences. Whether you're planning a professional conference, educational seminar, engaging workshop, lively social gathering, or any other event, this system provides the comprehensive tools and features necessary to ensure your event's success.
 
 In addition to facilitating traditional event management tasks such as scheduling, registration, and attendee management, our system goes a step further by addressing the needs of public events. We understand the importance of securing sponsors and reaching a broader audience for your program. Therefore, our platform offers seamless integration to help you easily connect with potential sponsors and attract a diverse audience to your events.
 
